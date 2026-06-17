@@ -10,7 +10,7 @@ export default function Hero() {
       <p className="hero-eyebrow"><img src="bird-logo.png" alt="AivisLab" className="section-logo-img" /> Talking to the Future</p>
       <div className="hero-content">
         <div className="hero-text">
-          <h1 className="hero-title">AIvisLab<br /><em>AI Avatar Brain Engine :</em></h1>
+          <h1 className="hero-title">AIvisLab<br /><em>AI Avatar Brain Engine :: </em></h1>
           <SplineSceneBasic />
           <p className="hero-sub">Real-World AI Brain Infrastructure — the unified platform transforming retail &amp; service industries through intelligent automation.</p>
           <a href="#problem" className="hero-cta">
